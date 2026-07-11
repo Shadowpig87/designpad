@@ -1,0 +1,6 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"SW9,SW7,SW6,SW1,SW4,SW8,SW3,SW2,SW10";"SW_Cherry_MX_1.00u_PCB";9;"SW_Push";;;
+2;"D3,D2,D5,D1,D4,D6,D8,D9,D7";"D_DO-35_SOD27_P7.62mm_Horizontal";9;"1N4148WT";;;
+3;"SW5";"RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm";1;"RotaryEncoder_Switch";;;
+4;"U1";"MODULE_102010428";1;"102010428";;;
+5;"J1";"PinHeader_1x04_P2.54mm_Vertical";1;"Conn_01x04_Pin";;;

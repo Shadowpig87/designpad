@@ -16,6 +16,6 @@ The reason I didn't put a case for this pcb is cause I already have some plans o
 Features:
 128x32 OLED display
 EC11 Rotary Encoder(for zooming in ofc)
-6x Cherry MX Switches
-6x 1N4148 DO-35 Diodes
-46x DSA Keycaps
+9x Cherry MX Switches
+9x 1N4148 DO-35 Diodes
+9x DSA Keycaps
